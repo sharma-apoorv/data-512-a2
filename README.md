@@ -28,7 +28,6 @@ The analysis will consist of a series of tables that show:
 The following is the structure of the directory and files present:
 ```
 .
-.
 ├── LICENSE
 ├── README.md
 ├── data
@@ -44,7 +43,7 @@ The following is the structure of the directory and files present:
 │       ├── WPDS_2020_data.csv #world population data
 │       └── page_data.csv #politicians by country data
 └── src
-    └── A2_Bias_In_Data.ipynb #source code
+    └── hcds-a2-bias.ipynb #source code
 
 ```
 
